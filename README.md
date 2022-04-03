@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PCEnthusiastXIoT
 - 👀 I’m interested in AI, Machine Learning and Internet of Things. 
-- 🌱 I’m currently learning about IoT and image recognition via CNN's
-- 💞️ I’m looking to collaborate on ML and IoT applications especially relating to environment sensing and processing, especially where image recognition and/or agriculture are involved
+- 🌱 I’m currently learning about Machine Learning with Python using Scikit-Learn
+- 💞️ I'm looking to gain experience with enterprise AI development  
 - 📫 How to reach me: add me on GitHub!
 
 <!---
